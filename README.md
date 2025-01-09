@@ -19,3 +19,7 @@ react-native-mmkv 加密储存库
 npx lingui extract 
 <!-- 生成api -->
 npx swagger-typescript-api -p https://petstore3.swagger.io/api/v3/openapi.json -o ./src -n myApi.ts
+
+qt create -p name 创建项目
+qt create -s name 创建页面
+qt create -z name 创建store
